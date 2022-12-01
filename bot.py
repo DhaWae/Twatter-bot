@@ -3,9 +3,6 @@ import undetected_chromedriver as uc
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from time import sleep
-import requests
-from bs4 import BeautifulSoup as soup
-import random
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.keys import Keys
 chrome_options = Options()

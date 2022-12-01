@@ -1,2 +1,2 @@
 # Twatter-bot
-Go under releases and download dist.zip
+Go under releases and download bot.zip
